@@ -3,7 +3,7 @@ import pandas as pd
 import pulp
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="Dream11 AI Optimizer Pro", layout="wide", page_icon="🏆")
+st.set_page_config(page_title="Fantasy Optimizer", layout="wide", page_icon="🏆")
 
 # --- SENIOR UI: CUSTOM CSS ---
 st.markdown("""
